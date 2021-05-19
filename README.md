@@ -1,4 +1,3 @@
 # tmux
-tmux 3 conf
 
-Simple tmux conf, compatible for tmux 3
+Simple tmux conf, compatible for tmux 3 with a shortcut to launch tmux with some panels and windows
